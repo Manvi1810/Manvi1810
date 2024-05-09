@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Manvi1810
-- 👀 I’m interested in showcasing and adapting more effective ways to understand Ds and Algos.
-- 🌱 I’m currently learning and dealing with codes and development.
+- 👋 Hi, I’m Manvi Singh.
+- 👀 I have knowledge of tools Charles Proxy, TestNG, APM, Java, MySQL, Postman.
+- 🌱 I’m currently looking for job switch.
 - 📫 How to reach me - manvisingh0967@gmail.com 
 
 <!---
